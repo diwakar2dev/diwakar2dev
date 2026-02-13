@@ -1,81 +1,41 @@
-<!-- BANNER -->
+<!-- PREMIUM HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Diwakar%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e1b4b&height=220&section=header&text=Diwakar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Diwakar Sharma</h1>
+<h1 align="center">👋 Hi, I'm Diwakar Sharma</h1>
 
 <h3 align="center">
-Full Stack Developer | VPS Infrastructure Specialist | MrEnder 👑
+Full Stack Developer • VPS Infrastructure Architect • MrEnder 👑
 </h3>
 
 ---
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7c3aed&size=22&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Linux+VPS+Expert;Cloudflare+Specialist;Discord+Bot+Developer;Building+Powerful+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=7c3aed&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Linux+%26+Cloudflare+Specialist;Discord+Bot+Engineer;System+Architecture+Builder;Engineering+Powerful+Solutions" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔥 Passionate about Web Engineering  
-- 🛠 Skilled in HTML, CSS, JS, Node.js  
-- 💻 VPS & Cloudflare Infrastructure Expert  
-- 🤖 Discord Bot Automation Developer  
-- 👑 Also known as **MrEnder**
-
----
-
-## 🛠 Tech Stack
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,linux,github,cloudflare,vscode" />
+<a href="https://github.com/diwakar2dev">
+<img src="https://img.shields.io/github/followers/diwakar2dev?label=Followers&style=for-the-badge&color=7c3aed" />
+</a>
+<a href="https://diwakar2dev.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge" />
+</a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diwakar2dev&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakar2dev&theme=radical" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=diwakar2dev&theme=radical&margin-w=10&no-frame=true" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/diwakar2dev/diwakar2dev/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=diwakar2dev&label=Profile+Views&color=7c3aed&style=flat" />
-</p>
-
----
-
-## 💬 Quote
-
-> "Engineering systems. Scaling ideas. Building the future."
-
----
-
-⭐ From [diwakar2dev](https://github.com/diwakar2dev)
+```yaml
+Name: Diwakar Sharma
+Alias: MrEnder
+Role: Full Stack Developer
+Specialty: VPS Infrastructure & Cloud Systems
+Focus: Building scalable and powerful web platforms
