@@ -1,41 +1,26 @@
-<!-- PREMIUM HEADER -->
+<!-- CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1e1b4b&height=220&section=header&text=Diwakar%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=DIWAKAR%20SHARMA&fontSize=45&fontColor=00ffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Diwakar Sharma</h1>
-
-<h3 align="center">
-Full Stack Developer • VPS Infrastructure Architect • MrEnder 👑
-</h3>
+<h1 align="center">⚡ diwakar2dev</h1>
+<h3 align="center">Full Stack Developer • Infrastructure Engineer • Automation Focused</h3>
 
 ---
 
-<!-- TYPING EFFECT -->
+<!-- NEON TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7c3aed&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Linux+%26+Cloudflare+Specialist;Discord+Bot+Engineer;System+Architecture+Builder;Engineering+Powerful+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFFF&center=true&vCenter=true&width=700&lines=Cyberpunk+System+Builder;Linux+%26+Cloud+Specialist;VPS+Infrastructure+Engineer;Automation+Driven+Development;Always+Upgrading" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🧬 SYSTEM PROFILE
 
-<p align="center">
-<a href="https://github.com/diwakar2dev">
-<img src="https://img.shields.io/github/followers/diwakar2dev?label=Followers&style=for-the-badge&color=7c3aed" />
-</a>
-<a href="https://diwakar2dev.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Live-7c3aed?style=for-the-badge" />
-</a>
-</p>
-
----
-
-# 🧠 About Me
-
-```yaml
-Name: Diwakar Sharma
-Alias: MrEnder
-Role: Full Stack Developer
-Specialty: VPS Infrastructure & Cloud Systems
-Focus: Building scalable and powerful web platforms
+```bash
+Name        : Diwakar Sharma
+Username    : diwakar2dev
+Role        : Full Stack Developer
+Speciality  : Linux • Docker • Cloudflare • VPS Systems
+Status      : Building scalable infrastructure
+Location    : India
